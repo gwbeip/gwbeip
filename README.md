@@ -1,5 +1,5 @@
 ### Hi there 👋
-My research interest includes computer architecture, and hardware accelerator of post-quantum cryptography (PQC) and fully homomorphic encryption (FHE). I have published some papers at IEEE conferences and journals <a href='https://scholar.google.com/citations?user=CryOyUsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes computer architecture, and hardware accelerator of post-quantum cryptography (PQC) and fully homomorphic encryption (FHE). I have published some papers at IEEE conferences and journals <a href="https://scholar.google.com/citations?user=CryOyUsAAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fgwbeip%2Fgwbeip.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&amp;logo=Google%20Scholar&amp;labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label=citations"></a>.
 
 More details visit my [personal homepage](https://gwbeip.github.io/)
 
